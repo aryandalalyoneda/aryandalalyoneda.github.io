@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Aryan Dalal"
-  pronouns         : "he/him"  
+  pronouns         :   
   bio              : "Applied Mathematics"
   location         : "Los Angeles, CA"
-  employer         : "University of California, Los Angeles (UCLA)"
+  employer         : "UCLA"
   uri              : # URL
   email            : "aryandalal@ucla.edu" 
 
