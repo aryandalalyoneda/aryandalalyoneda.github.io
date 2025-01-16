@@ -9,7 +9,7 @@ main:
 #    url: /publications/
 
    - title: "Classes"
-     url: /teaching/        
+     url: /classes/        
     
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -21,7 +21,7 @@ main:
     url: /cv/
 
   - title: "New in Math"
-    url: /talks/
+    url: /newinmath/
     
 #  - title: "Guide"
 #    url: /markdown/
