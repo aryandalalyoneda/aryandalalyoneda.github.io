@@ -16,20 +16,20 @@ Education
 Classes
 ======
 * Fall 2024
-  - MATH 31B
-  - MATH 32AH
+  - MATH 31B - Infinite Series
+  - MATH 32AH - Differential Multivariate Analysis Honors
 
 * Winter 2025
-  - MATH 32BH
-  - MATH 115AH
-  - MATH 134
-  - MATH 151B (Audit) 
+  - MATH 32BH - Integral Multivariate Analysis Honors
+  - MATH 115AH - Linear Algebra Honors
+  - MATH 134 - Linear & Nonlinear Systems of Differential Equations
+  - MATH 151B (Audit) - Applied Numerical Analysis Part II
  
 * Spring 2025
-  - MATH 115B
-  - MATH 135
-  - MATH 136
-  - MATH 151A
+  - MATH 115B - Linear Algebra Part II
+  - MATH 135 - Ordinary Differential Equations
+  - MATH 136 - Partial Differential Equations
+  - MATH 151A - Applied Numerical Analysis Part I
 
 Teaching
 ======
